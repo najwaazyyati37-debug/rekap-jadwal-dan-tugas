@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://najwaazyyati37-debug.github.io/rekap-jadwal-dan-tugas/sitemap.xml
